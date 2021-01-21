@@ -44,6 +44,9 @@ Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticalit
 
 Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lockdown on the far side of the COVID-19 epidemic curve](https://www.pnas.org/content/117/39/24575.short)
 
+Yang et al (2020). medRxiv. [Design of COVID-19 Staged Alert Systems to Ensure Healthcare Capacity with Minimal Closures](https://www.medrxiv.org/content/10.1101/2020.11.26.20152520v2.full)
+* watched Lauren Ancel Meyers talk about this work at the Emory Workshop. Very inspiring approach to modelling with the specific goal of informed policy-making. I got the impression that they've done a lot of the heavy lifting so that one could (relatively easily) adapt this approach to generate policy suggestions for other locations (e.g. Ontario) that also want to limit the chance that ICUs get overwhelmed.
+
 ### Newer suggestions (general)
 
 ### Screened
